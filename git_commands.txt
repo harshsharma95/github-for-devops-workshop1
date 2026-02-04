@@ -26,3 +26,29 @@
   git restore testing.py
   git status
     history 
+    git add git_commands.txt 
+    git add git_commands.txt 
+    git status
+    git commit -m "added git commands"
+    git status
+   git remote add origin https://github.com/harshsharma95/github-for-devops-workshop1.git
+   git remote -v
+   git remote set-url origin https:// ghpFzV6@github.com/harshsharma95/github-for-devops-workshop1.git
+   git remote set-url origin https:// gwtCS0pFzV6@github.com/harshsharma95/github-for-devops-workshop1.git (push)
+   git remote -v origin https://ghp_c7JJfEPwQFUcYforwtCX67EKUNt1MS0pFzVcom/harshsharma95/github-for-devops-workshop1.git(push)
+    git remote -v origin https://6@github.com/harshsharma95/github-for-devops-workshop1.git(push)
+    git remote set-url origin https://gx@github.com/harshsharma95/github-for-devops-workshop1.git
+    git remote -v
+    git push origin master
+    cd
+    cd
+    cd
+    ls
+    mkdir git-demo-new
+    ls
+    cd git-demo-new/
+    ls
+    git clone https://github.com/harshsharma95/github-for-devops-workshop1.git
+    ls
+    cd github-for-devops-workshop1/
+    ls
