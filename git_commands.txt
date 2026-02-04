@@ -1,0 +1,28 @@
+  git init
+  ls
+  ls -a
+  restore testing.py
+  git status
+  git status
+  git statusls
+  git status
+  git add testing.py 
+  git status
+  git rm --chached testing.py 
+  git rm --chache testing.py 
+  git rm --cached testing.py 
+  git status
+  git add.
+  git add .
+  git status
+  git commit -m "added testing files"
+  git commit -m "added testing files"
+  git config --global user.name "Harsh Sharma"
+  git config --global user.email "harshsharma95@gmail.com"
+  git commit -m "added testing files"
+  git status
+  rm testing.py 
+  git status
+  git restore testing.py
+  git status
+    history 
